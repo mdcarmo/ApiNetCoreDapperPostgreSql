@@ -1,0 +1,12 @@
+H:\05-EXEMPLOS_NET\Exemplos.NET.CORE\WebApi\WebApi\bin\Debug\netcoreapp2.0\WebApi.deps.json
+H:\05-EXEMPLOS_NET\Exemplos.NET.CORE\WebApi\WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.json
+H:\05-EXEMPLOS_NET\Exemplos.NET.CORE\WebApi\WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.dev.json
+H:\05-EXEMPLOS_NET\Exemplos.NET.CORE\WebApi\WebApi\bin\Debug\netcoreapp2.0\WebApi.dll
+H:\05-EXEMPLOS_NET\Exemplos.NET.CORE\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.csprojResolveAssemblyReference.cache
+H:\05-EXEMPLOS_NET\Exemplos.NET.CORE\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.csproj.CoreCompileInputs.cache
+H:\05-EXEMPLOS_NET\Exemplos.NET.CORE\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfoInputs.cache
+H:\05-EXEMPLOS_NET\Exemplos.NET.CORE\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfo.cs
+H:\05-EXEMPLOS_NET\Exemplos.NET.CORE\WebApi\WebApi\bin\Debug\netcoreapp2.0\WebApi.pdb
+H:\05-EXEMPLOS_NET\Exemplos.NET.CORE\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.dll
+H:\05-EXEMPLOS_NET\Exemplos.NET.CORE\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.pdb
+H:\05-EXEMPLOS_NET\Exemplos.NET.CORE\WebApi\WebApi\bin\Debug\netcoreapp2.0\WebApi.xml
